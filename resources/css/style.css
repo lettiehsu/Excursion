@@ -1,0 +1,30 @@
+
+html {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 480px;
+    margin: 0 500px;
+
+
+h5 {
+    color: cyan !important;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h1 h2 h5 {
+    text-align: center;
+}
+
+.phone {
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: right;
+}
